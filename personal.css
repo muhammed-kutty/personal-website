@@ -1,0 +1,44 @@
+.service-class{
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+.card-class{
+    height: 22em;
+}
+
+a{
+    text-decoration: none;
+}
+
+.btn-class{
+    width: 100%;
+}
+header{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+.sec-class {
+    padding-top: 8em;
+}
+html{
+    scroll-behavior: smooth;
+}
+.nav-class{
+    padding-left: 1em;
+    
+}
+.a-class{
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+.headder-class{
+    font-family: serif;
+    font-weight:bold;
+}
+hr{
+    border: 10em;
+}
+.experience-a-class{
+    height: ;
+}
